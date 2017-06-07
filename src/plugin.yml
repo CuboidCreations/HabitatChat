@@ -1,0 +1,5 @@
+# HabitatChat plugin.yml
+name: HabitatChat
+main: com.gmail.Xeiotos.HabitatChat.HabitatChat
+version: 0.0.1
+depend: [HabitatAPI]
